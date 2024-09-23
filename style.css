@@ -1,0 +1,19 @@
+
+  
+  .all{
+    position: absolute;
+    bottom:100px;
+    left: 518px;
+  
+  }
+  .f{
+    background-color: rgb(132, 130, 197);
+  
+  }
+  .form{
+    background-color: rgb(23, 232, 162);
+  }
+  .form2{
+  list-style-type: decimal; color: rgb(205, 19, 201);
+  background-color: black;
+  }
