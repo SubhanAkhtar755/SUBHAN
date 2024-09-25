@@ -1,13 +1,17 @@
 
+.all{
+  position: absolute;
+  bottom:100px;
+  left: 518px;
+}
+ 
+   
   
-  .all{
-    position: absolute;
-    bottom:100px;
-    left: 518px;
   
-  }
   .f{
     background-color: rgb(132, 130, 197);
+
+  
   
   }
   .form{
@@ -16,4 +20,8 @@
   .form2{
   list-style-type: decimal; color: rgb(205, 19, 201);
   background-color: black;
+  }
+  .child{
+    font-size: 70px;
+  
   }
